@@ -1,0 +1,69 @@
+Lista: 
+123
+3
+67
+12
+23
+-----
+23
+12
+67
+3
+123
+
+Lista malejaco: 
+123
+67
+23
+12
+3
+
+Lista rosnaco: 
+3
+12
+23
+67
+123
+--------------------------
+Chcesz szukac liczb? (y/n)
+--------------------------
+Podaj liczbe, ktora chcesz znalezc:
+podano: 8
+------------------------------------
+Nie znaleziono takiej liczby
+--------------------------
+Chcesz szukac liczb? (y/n)
+--------------------------
+Podaj liczbe, ktora chcesz znalezc:
+podano: 12
+------------------------------------
+Znaleziona liczbe:12, adres: 0x7fffd79c5300
+--------------------------
+Chcesz szukac liczb? (y/n)
+--------------------------
+Chcesz usunac liczbe? (y/n)
+--------------------------
+Podaj liczbe, ktora chcesz usunac:
+podano: 56
+------------------------------------
+Nie znaleziono wartosci
+Lista po usunieciu: 
+3
+12
+23
+67
+123
+--------------------------
+Chcesz usunac liczbe? (y/n)
+--------------------------
+Podaj liczbe, ktora chcesz usunac:
+podano: 12
+------------------------------------
+Lista po usunieciu: 
+3
+23
+67
+123
+--------------------------
+Chcesz usunac liczbe? (y/n)
+--------------------------

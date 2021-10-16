@@ -1,0 +1,11 @@
+Podpunkt a:
+6.787	6.5	1.54	3.875	
+--------------------
+Podpunkt b:
+Najdluzszy z wczytanych lancuch to: zakupy
+--------------------
+3 - 2.67 	2 k 3.2 	1 ! 4.79 	
+--------------------
+1. ogorki:  2.67 zl 
+2. pomidory:  3.2 zl 
+3. dlugopis:  4.79 zl 

@@ -1,0 +1,4 @@
+Podaj liczbe A
+Podaj liczbe B
+lenA: 3 lenB: 4
+2124

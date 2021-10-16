@@ -1,0 +1,85 @@
+-----------
+Preorder:
+15
+5
+3
+12
+10
+6
+7
+13
+16
+20
+18
+23
+-----------
+Postorder:
+3
+7
+6
+10
+13
+12
+5
+18
+23
+20
+16
+15
+------
+min: 3
+------
+max: 23
+-------
+
+SearchIterative 12: 0x7fffdb019350 
+
+SearchRecursive 12: 0x7fffdb019350 
+---------------------------
+tab[0]: 15
+Succesor: 0x7fffdb0192c0
+Predecessor: 0x7fffdb019410
+---------------------------
+tab[1]: 5
+Succesor: 0x7fffdb019440
+Predecessor: 0x7fffdb019320
+---------------------------
+tab[2]: 16
+Succesor: 0x7fffdb019380
+Predecessor: 0x7fffdb019260
+---------------------------
+tab[3]: 20
+Succesor: 0x7fffdb0193b0
+Predecessor: 0x7fffdb019380
+---------------------------
+tab[4]: 3
+Succesor: 0x7fffdb019290
+Predecessor: (nil)
+---------------------------
+tab[5]: 12
+Succesor: 0x7fffdb019410
+Predecessor: 0x7fffdb0193e0
+---------------------------
+tab[6]: 18
+Succesor: 0x7fffdb0192f0
+Predecessor: 0x7fffdb0192c0
+---------------------------
+tab[7]: 23
+Succesor: (nil)
+Predecessor: 0x7fffdb0192f0
+---------------------------
+tab[8]: 10
+Succesor: 0x7fffdb019350
+Predecessor: 0x7fffdb019470
+---------------------------
+tab[9]: 13
+Succesor: 0x7fffdb019260
+Predecessor: 0x7fffdb019350
+---------------------------
+tab[10]: 6
+Succesor: 0x7fffdb019470
+Predecessor: 0x7fffdb019290
+---------------------------
+tab[11]: 7
+Succesor: 0x7fffdb0193e0
+Predecessor: 0x7fffdb019440

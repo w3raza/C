@@ -1,0 +1,24 @@
+Wartosc k=12, adres k=0x7fffef3c835c 
+Wartosc k=11, adres k=0x7fffef3c833c 
+Wartosc k=10, adres k=0x7fffef3c831c 
+Wartosc k=9, adres k=0x7fffef3c82fc 
+Wartosc k=8, adres k=0x7fffef3c82dc 
+Wartosc k=7, adres k=0x7fffef3c82bc 
+Wartosc k=6, adres k=0x7fffef3c829c 
+Wartosc k=5, adres k=0x7fffef3c827c 
+Wartosc k=4, adres k=0x7fffef3c825c 
+Wartosc k=3, adres k=0x7fffef3c823c 
+Wartosc k=2, adres k=0x7fffef3c821c 
+Wartosc k=1, adres k=0x7fffef3c81fc 
+	wartosc wyn=2, adres wyn=0x7fdc60c01010
+	wartosc wyn=6, adres wyn=0x7fdc60c01010
+	wartosc wyn=24, adres wyn=0x7fdc60c01010
+	wartosc wyn=120, adres wyn=0x7fdc60c01010
+	wartosc wyn=720, adres wyn=0x7fdc60c01010
+	wartosc wyn=5040, adres wyn=0x7fdc60c01010
+	wartosc wyn=40320, adres wyn=0x7fdc60c01010
+	wartosc wyn=362880, adres wyn=0x7fdc60c01010
+	wartosc wyn=3628800, adres wyn=0x7fdc60c01010
+	wartosc wyn=39916800, adres wyn=0x7fdc60c01010
+	wartosc wyn=479001600, adres wyn=0x7fdc60c01010
+Wynik: 479001600 

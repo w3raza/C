@@ -1,0 +1,5 @@
+Argument[0] - ./a.out
+Argument[1] - jeden
+Argument[2] - 2
+Argument[3] - 4.5
+Integer: 0, Float: 2.00

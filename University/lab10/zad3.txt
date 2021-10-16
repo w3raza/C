@@ -1,0 +1,7 @@
+Podaj liczbe A
+Podano liczbe: 56345366547473
+--------------
+Podaj liczbe B
+Podano liczbe: 67684546465646
+--------------
+Wynik sumy liczb: 124029913013119

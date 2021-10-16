@@ -1,0 +1,35 @@
+X=5 	 Y=2 	 Z=9 
+dlugosc wektora=10.4881 
+
+X=10 	 Y=3 	 Z=6 
+dlugosc wektora=12.0416 
+
+X=9 	 Y=6 	 Z=3 
+dlugosc wektora=11.225 
+
+X=6 	 Y=9 	 Z=9 
+dlugosc wektora=14.0712 
+
+X=5 	 Y=4 	 Z=5 
+dlugosc wektora=8.12404 
+
+X=4 	 Y=1 	 Z=9 
+dlugosc wektora=9.8995 
+
+X=9 	 Y=4 	 Z=1 
+dlugosc wektora=9.8995 
+
+X=4 	 Y=1 	 Z=4 
+dlugosc wektora=5.74456 
+
+X=1 	 Y=6 	 Z=9 
+dlugosc wektora=10.8628 
+
+X=5 	 Y=9 	 Z=2 
+dlugosc wektora=10.4881 
+
+Znaleziony wektor to 10.862781 
+Szukana:10.8
+tolerancja:0.108
+przedzial:<10.692,10.908> 
+Ile wektorow znaleziono: 1 

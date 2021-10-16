@@ -1,0 +1,52 @@
+Witaj
+(Masz 3 proby)
+-------------------
+Podaj haslo:
+Podano bledne haslo
+Podaj haslo:
+
+Chcesz dopisać uzytkownika?(y/n)
+
+Rozmiar pliku:116
+Ilosc rekordow 5
+------------------------------
+Marcin
+
+Aback
+
+Is4
+
+345678
+
+Olaf
+
+Sawicki
+
+Is7
+
+890546
+
+Jan
+
+Kacki
+
+IF3
+
+567233
+
+Jan
+
+Ewacki
+
+IS4
+
+5547892
+
+Adam
+
+Sawicki
+
+IF4
+
+224335
+

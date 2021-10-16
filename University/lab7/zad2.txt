@@ -1,0 +1,3 @@
+Podaj a i b
+Suma = 7
+Roznica = -1

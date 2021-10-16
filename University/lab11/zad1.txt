@@ -1,0 +1,24 @@
+
+Struct 1:
+liczba danych tablicy:	3
+tablica wyniki[]:	0 5 6 
+sredni wynik		3.66667
+-----------------------------------
+
+Struct 2:
+liczba danych tablicy:	6
+tablica wyniki[]:	4 2 3 5 8 5 
+sredni wynik		4.5
+-----------------------------------
+
+Struct 3:
+liczba danych tablicy:	4
+tablica wyniki[]:	5 4 9 5 
+sredni wynik		5.75
+-----------------------------------
+
+Struct 4:
+liczba danych tablicy:	2
+tablica wyniki[]:	8 2 
+sredni wynik		5
+-----------------------------------

@@ -1,0 +1,243 @@
+Lista
+
+7
+6
+13
+10
+23
+18
+12
+3
+20
+16
+5
+15
+
+Co chcesz zrobić?
+0 - konczy program
+1 - wyawietl listę
+2 - wyswietl listę od konca
+3 - podaj ile elmentow
+4 - umiesc element na poczatku listy
+5 - umiesc element na koncu listy
+6 - dadaje element we wskazanym miejscu na liscie
+7 - usuwa element na poczatku listy
+8 - usuwa element na koncu listy
+9 - usuwa element we wskazanym miejscu na liscie
+10 - odwaraca kolejnosc elementow na liscie
+Lista od tylu:
+
+15
+5
+16
+20
+3
+12
+18
+23
+10
+13
+6
+7
+
+Co chcesz zrobić?
+0 - konczy program
+1 - wyawietl listę
+2 - wyswietl listę od konca
+3 - podaj ile elmentow
+4 - umiesc element na poczatku listy
+5 - umiesc element na koncu listy
+6 - dadaje element we wskazanym miejscu na liscie
+7 - usuwa element na poczatku listy
+8 - usuwa element na koncu listy
+9 - usuwa element we wskazanym miejscu na liscie
+10 - odwaraca kolejnosc elementow na liscie
+ilosc elementow:12
+
+Co chcesz zrobić?
+0 - konczy program
+1 - wyawietl listę
+2 - wyswietl listę od konca
+3 - podaj ile elmentow
+4 - umiesc element na poczatku listy
+5 - umiesc element na koncu listy
+6 - dadaje element we wskazanym miejscu na liscie
+7 - usuwa element na poczatku listy
+8 - usuwa element na koncu listy
+9 - usuwa element we wskazanym miejscu na liscie
+10 - odwaraca kolejnosc elementow na liscie
+Wpisz liczbe jaka chcesz dodac: 
+Co chcesz zrobić?
+0 - konczy program
+1 - wyawietl listę
+2 - wyswietl listę od konca
+3 - podaj ile elmentow
+4 - umiesc element na poczatku listy
+5 - umiesc element na koncu listy
+6 - dadaje element we wskazanym miejscu na liscie
+7 - usuwa element na poczatku listy
+8 - usuwa element na koncu listy
+9 - usuwa element we wskazanym miejscu na liscie
+10 - odwaraca kolejnosc elementow na liscie
+Wpisz liczbe jaka chcesz dodac: 
+Co chcesz zrobić?
+0 - konczy program
+1 - wyawietl listę
+2 - wyswietl listę od konca
+3 - podaj ile elmentow
+4 - umiesc element na poczatku listy
+5 - umiesc element na koncu listy
+6 - dadaje element we wskazanym miejscu na liscie
+7 - usuwa element na poczatku listy
+8 - usuwa element na koncu listy
+9 - usuwa element we wskazanym miejscu na liscie
+10 - odwaraca kolejnosc elementow na liscie
+Wpisz liczbe jaka chcesz dodac: Wpisz pozycje: 
+Co chcesz zrobić?
+0 - konczy program
+1 - wyawietl listę
+2 - wyswietl listę od konca
+3 - podaj ile elmentow
+4 - umiesc element na poczatku listy
+5 - umiesc element na koncu listy
+6 - dadaje element we wskazanym miejscu na liscie
+7 - usuwa element na poczatku listy
+8 - usuwa element na koncu listy
+9 - usuwa element we wskazanym miejscu na liscie
+10 - odwaraca kolejnosc elementow na liscie
+Lista:
+
+12
+7
+6
+13
+10
+23
+18
+12
+3
+20
+16
+5
+12
+15
+12
+
+Co chcesz zrobić?
+0 - konczy program
+1 - wyawietl listę
+2 - wyswietl listę od konca
+3 - podaj ile elmentow
+4 - umiesc element na poczatku listy
+5 - umiesc element na koncu listy
+6 - dadaje element we wskazanym miejscu na liscie
+7 - usuwa element na poczatku listy
+8 - usuwa element na koncu listy
+9 - usuwa element we wskazanym miejscu na liscie
+10 - odwaraca kolejnosc elementow na liscie
+
+Co chcesz zrobić?
+0 - konczy program
+1 - wyawietl listę
+2 - wyswietl listę od konca
+3 - podaj ile elmentow
+4 - umiesc element na poczatku listy
+5 - umiesc element na koncu listy
+6 - dadaje element we wskazanym miejscu na liscie
+7 - usuwa element na poczatku listy
+8 - usuwa element na koncu listy
+9 - usuwa element we wskazanym miejscu na liscie
+10 - odwaraca kolejnosc elementow na liscie
+
+Co chcesz zrobić?
+0 - konczy program
+1 - wyawietl listę
+2 - wyswietl listę od konca
+3 - podaj ile elmentow
+4 - umiesc element na poczatku listy
+5 - umiesc element na koncu listy
+6 - dadaje element we wskazanym miejscu na liscie
+7 - usuwa element na poczatku listy
+8 - usuwa element na koncu listy
+9 - usuwa element we wskazanym miejscu na liscie
+10 - odwaraca kolejnosc elementow na liscie
+Wypisz pozycje: 
+Co chcesz zrobić?
+0 - konczy program
+1 - wyawietl listę
+2 - wyswietl listę od konca
+3 - podaj ile elmentow
+4 - umiesc element na poczatku listy
+5 - umiesc element na koncu listy
+6 - dadaje element we wskazanym miejscu na liscie
+7 - usuwa element na poczatku listy
+8 - usuwa element na koncu listy
+9 - usuwa element we wskazanym miejscu na liscie
+10 - odwaraca kolejnosc elementow na liscie
+Lista:
+
+7
+6
+13
+10
+23
+12
+3
+20
+16
+5
+12
+15
+
+Co chcesz zrobić?
+0 - konczy program
+1 - wyawietl listę
+2 - wyswietl listę od konca
+3 - podaj ile elmentow
+4 - umiesc element na poczatku listy
+5 - umiesc element na koncu listy
+6 - dadaje element we wskazanym miejscu na liscie
+7 - usuwa element na poczatku listy
+8 - usuwa element na koncu listy
+9 - usuwa element we wskazanym miejscu na liscie
+10 - odwaraca kolejnosc elementow na liscie
+
+Co chcesz zrobić?
+0 - konczy program
+1 - wyawietl listę
+2 - wyswietl listę od konca
+3 - podaj ile elmentow
+4 - umiesc element na poczatku listy
+5 - umiesc element na koncu listy
+6 - dadaje element we wskazanym miejscu na liscie
+7 - usuwa element na poczatku listy
+8 - usuwa element na koncu listy
+9 - usuwa element we wskazanym miejscu na liscie
+10 - odwaraca kolejnosc elementow na liscie
+Lista:
+
+15
+12
+5
+16
+20
+3
+12
+23
+10
+13
+6
+7
+
+Co chcesz zrobić?
+0 - konczy program
+1 - wyawietl listę
+2 - wyswietl listę od konca
+3 - podaj ile elmentow
+4 - umiesc element na poczatku listy
+5 - umiesc element na koncu listy
+6 - dadaje element we wskazanym miejscu na liscie
+7 - usuwa element na poczatku listy
+8 - usuwa element na koncu listy
+9 - usuwa element we wskazanym miejscu na liscie
+10 - odwaraca kolejnosc elementow na liscie

@@ -1,0 +1,13 @@
+0	1	2	3	4	
+0	1	2	3	4	
+0	1	2	3	4	
+0	1	2	3	4	
+0	1	2	3	4	
+Suma wszystkich elementów tablicy 50:
+Suma wszystkich elementów pod przekątną główną: 10
+Suma wszystkich elementów nad przekątną główną: 30
+Suma wszystkich elementów na przekątną główną: 10
+Suma wszystkich elementów tablicy 50:
+Suma wszystkich elementów pod przekątną główną: 10
+Suma wszystkich elementów nad przekątną główną: 30
+Suma wszystkich elementów na przekątną główną: 10

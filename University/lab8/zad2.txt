@@ -1,0 +1,5 @@
+imie: Piotr nazwisko: Hak kod: 34-789 wiek: 54
+imie: Rebeka nazwisko: Minor kod: 45-908 wiek: 17
+imie: Weronika nazwisko: White kod: 56-789 wiek: 90
+imie: Grzegorz nazwisko: Zaczyk kod: 34-789 wiek: 89
+imie: Wiktoria nazwisko: Zaczyk kod: 33-335 wiek: 20

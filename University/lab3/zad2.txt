@@ -1,0 +1,46 @@
+0x7fffec752870
+2
+0x7fffec752874
+4
+0x7fffec752878
+6
+0x7fffec75287c
+8
+0x7fffec752880
+10
+0x7fffec752884
+12
+0x7fffec752888
+14
+0x7fffec75288c
+16
+
+rozmiar wskanika 8
+2	 adres 1 to 0x7fffec752870 
+2	 adres 1 to 0x7fffec752870 
+
+4	 adres 2 to 0x7fffec752874 
+4	 adres 2 to 0x7fffec752878 
+
+
+6	 adres 3 to 0x7fffec752878 
+6	 adres 3 to 0x7fffec752878 
+
+8	 adres 4 to 0x7fffec75287c 
+8	 adres 4 to 0x7fffec752880 
+
+
+10	 adres 5 to 0x7fffec752880 
+10	 adres 5 to 0x7fffec752880 
+
+12	 adres 6 to 0x7fffec752884 
+12	 adres 6 to 0x7fffec752888 
+
+
+14	 adres 7 to 0x7fffec752888 
+14	 adres 7 to 0x7fffec752888 
+
+16	 adres 8 to 0x7fffec75288c 
+16	 adres 8 to 0x7fffec752890 
+
+
